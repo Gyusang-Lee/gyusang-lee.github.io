@@ -3,3 +3,4 @@ description: Personal Learning Logs and Portfolio Website
 baseurl: ""
 url: "https://gyusang-lee.github.io/gyusanglee.github.io/"
 markdown: kramdown
+theme: jekyll-theme-cayman
